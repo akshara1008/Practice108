@@ -18,7 +18,7 @@ public class WindowHandles {
       }
       Thread.sleep(2000);
       driver.manage().deleteAllCookies();
-      driver.quit();
+     driver.quit();
       
 	}
 
